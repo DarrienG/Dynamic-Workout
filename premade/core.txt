@@ -1,0 +1,3 @@
+Plank,assets/plank.txt,1,10
+Sit-ups,assets/sit_ups.txt,0,10
+V-Ups,assets/v_ups.txt,0,8

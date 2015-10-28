@@ -1,0 +1,2 @@
+High-Knees,assets/high_knees.txt,1,10
+Jumping-Jacks,assets/jacks.txt,1,10

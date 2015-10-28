@@ -1,0 +1,4 @@
+Bench-press,assets/bench_press.txt,0,10
+Curls,assets/curls.txt,0,15
+Push-ups,assets/push_ups.txt,0,25
+Squats,assets/squats.txt,0,10

@@ -1,0 +1,9 @@
+Bench-press,assets/bench_press.txt
+Curls,assets/curls.txt
+High Knees,assets/high_knees.txt
+Jumping Jacks,assets/jacks.txt
+Plank,assets/plank.txt
+Push-ups,push_ups.txt
+Sit-ups,assets/sit_ups.txt
+Squats,assets/squats.txt
+V-Ups,assets/v_ups.txt
